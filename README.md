@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Deukhwa</h1>
-<h3 align="center">I'm a passionate student in the third year from SLC (expected to graduate in 2023 April)</h3>
+<h1 align="center">Hi 👋, I'm Dan</h1>
+<h3 align="center">I'm a recent graduate from St Lawrence College, majoring in Computer Programming & Analysis</h3>
 
-- 🌱 I’m currently learning **React, TypeScript**
+- 🌱 I’m currently learning **React, Redux**
 
 - 📫 How to reach me **deukhwajeong@gmail.com**
 
